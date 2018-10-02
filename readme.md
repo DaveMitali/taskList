@@ -1,4 +1,4 @@
-# Laravel Quickstart - Basic
+# Laravel Task List
 
 ## Quick Installation
 
